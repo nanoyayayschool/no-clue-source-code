@@ -1,5 +1,5 @@
 # no-clue-source-code
-Source code for no clue, by Nano Productions.
+Source code for no clue, by Nano Productions. (https://nano-productions.itch.io/no-clue)
 This is to create mods for the game, and MUST credit Nano Productions.
 Using the source code is the exported, Windows version of the game, while other files (such as app.asar) contain the files to the game.
 You may use an online editor to extract the app.asar, like https://www.ezyzip.com/open-extract-asar-file.html
